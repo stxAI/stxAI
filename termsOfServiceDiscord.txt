@@ -1,0 +1,25 @@
+TERMS OF SERVICE
+
+1. ACCEPTANCE OF TERMS
+By using this Discord bot ('Bot'), part of the stxAI project, you agree to these Terms of Service.
+
+2. OPEN SOURCE LICENSE
+This Bot is open source software under the MIT License as part of the stxAI project. The source code is available at your repository link.
+
+3. DISCLAIMER OF WARRANTIES
+THE BOT IS PROVIDED 'AS IS' WITHOUT WARRANTY OF ANY KIND. WE DO NOT GUARANTEE UNINTERRUPTED OR ERROR-FREE SERVICE.
+
+4. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE CREATORS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES.
+
+5. USER CONDUCT
+Users agree not to:
+- Use the Bot for illegal purposes
+- Attempt to exploit or manipulate the Bot
+- Interfere with other users' access
+
+6. DATA COLLECTION
+The Bot may collect usage data for improvement purposes. No personal information is stored.
+
+7. MODIFICATIONS
+We reserve the right to modify these terms at any time.

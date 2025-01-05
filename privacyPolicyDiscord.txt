@@ -1,0 +1,25 @@
+PRIVACY POLICY
+
+1. INFORMATION COLLECTION
+The Bot collects minimal data necessary for functionality, including Discord user IDs and usage metrics. No personal information is stored.
+
+2. USE OF INFORMATION
+Collected data is used solely for:
+- Bot functionality and improvement
+- Debugging and error tracking
+- Usage analytics
+
+3. DATA STORAGE AND SECURITY
+While we implement reasonable security measures, we make no guarantees regarding data security. Users interact with the Bot at their own risk.
+
+4. THIRD PARTY ACCESS
+No data is sold to third parties. Data may be shared with necessary service providers for Bot operation.
+
+5. USER RIGHTS
+Users may request data deletion by contacting administrators. However, some data may be retained for technical purposes.
+
+6. DISCLAIMER OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE BOT OR DATA BREACHES BEYOND OUR CONTROL.
+
+7. CHANGES TO POLICY
+We reserve the right to modify this policy at any time.
